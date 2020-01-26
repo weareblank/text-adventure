@@ -1,0 +1,22 @@
+c:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.exe
+C:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.deps.json
+C:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.runtimeconfig.json
+C:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.runtimeconfig.dev.json
+c:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.dll
+c:\Users\anwender\Code\textadventure\bin\Debug\netcoreapp3.1\textadventure.pdb
+c:\Users\anwender\Code\textadventure\obj\Debug\netcoreapp3.1\textadventure.csprojAssemblyReference.cache
+c:\Users\anwender\Code\textadventure\obj\Debug\netcoreapp3.1\textadventure.AssemblyInfoInputs.cache
+c:\Users\anwender\Code\textadventure\obj\Debug\netcoreapp3.1\textadventure.AssemblyInfo.cs
+c:\Users\anwender\Code\textadventure\obj\Debug\netcoreapp3.1\textadventure.dll
+c:\Users\anwender\Code\textadventure\obj\Debug\netcoreapp3.1\textadventure.pdb
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.exe
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.deps.json
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.runtimeconfig.json
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.runtimeconfig.dev.json
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.dll
+C:\Users\anwender\Fate of Cynthia\textadventure\bin\Debug\netcoreapp3.1\textadventure.pdb
+C:\Users\anwender\Fate of Cynthia\textadventure\obj\Debug\netcoreapp3.1\textadventure.csprojAssemblyReference.cache
+C:\Users\anwender\Fate of Cynthia\textadventure\obj\Debug\netcoreapp3.1\textadventure.AssemblyInfoInputs.cache
+C:\Users\anwender\Fate of Cynthia\textadventure\obj\Debug\netcoreapp3.1\textadventure.AssemblyInfo.cs
+C:\Users\anwender\Fate of Cynthia\textadventure\obj\Debug\netcoreapp3.1\textadventure.dll
+C:\Users\anwender\Fate of Cynthia\textadventure\obj\Debug\netcoreapp3.1\textadventure.pdb
